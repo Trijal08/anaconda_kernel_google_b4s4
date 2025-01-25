@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-📱cybertron-v10⚡-minimalistic"
+CONFIG_LOCALVERSION="-minimalistic"
 # KernelSU Config
 CONFIG_KPROBES=y
 CONFIG_HAVE_KPROBES=y
